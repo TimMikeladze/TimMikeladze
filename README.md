@@ -1,6 +1,6 @@
 ## About me
 
-🎨  [Portfolio](https://linesofcode.dev) -  🐦  [Twitter](https://twitter.com/linesofcodedev) -  🐘  [Mastodon](https://mastodon.social/@linesofcode) -  🎧  [Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)
+🎨  [Portfolio](https://linesofcode.dev) -  🐦  [Twitter](https://twitter.com/linesofcodedev) -  🐘  [Mastodon](https://fosstodon.org/@linesofcode) -  🎧  [Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)
 
 🔬🥼 I work with Graph databases, NextJS, React, GraphQL and TypeScript. Building full-stack apps is my jam.
 
