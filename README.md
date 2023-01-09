@@ -4,7 +4,7 @@
 
 🔬🥼 I work with **Graph databases**, **NextJS**, **React**, **GraphQL** and **TypeScript**. Building **full-stack** apps is my jam.
 
-🌊 ⚓ Traveling full-time since 2021. I've lived in 🇦🇱**Albania**, 🇬🇪**Georgia**, 🇹🇷**Turkey**, and 🇺🇦**Ukraine**.
+🌊 ⚓ Traveling full-time since 2021. I've lived in 🇦🇱 **Albania**, 🇬🇪 **Georgia**, 🇹 🇷**Turkey**, and 🇺🇦 **Ukraine**.
 
 🌧️ ☕ **Seattle** is my homebase.
 
