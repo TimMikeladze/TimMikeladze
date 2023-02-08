@@ -14,9 +14,6 @@
 
 
 ---
-
-[![](https://gtce.itsvg.in/api?username=linesofcodedev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
----
 ![](https://github-readme-stats.vercel.app/api?username=TimMikeladze&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TimMikeladze&theme=dark&hide_border=false)<br/>
 
