@@ -2,7 +2,9 @@
 
 🎨  **[Portfolio](https://linesofcode.dev)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)** - 🐦  **[Twitter](https://twitter.com/linesofcodedev)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)**
 
-🔬🥼 I work with **Graph databases**, **NextJS**, **React**, **GraphQL** and **TypeScript**.
+🧬🛠️ Building [KnowGraph.ai](https://knowgraph.ai).
+
+🔬🥼 I currently work with **Graph databases**, **NextJS**, and **OpenAI**.
 
 🌊 ⚓ Traveling full-time since 2021. I've lived in 🇦🇱 **Albania**, 🇬🇪 **Georgia**, 🇹🇷 **Turkey**, and 🇺🇦 **Ukraine**.
 
