@@ -1,6 +1,6 @@
 ## About me
 
-🎨  **[Portfolio](https://linesofcode.dev)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)** - 🐦  **[Twitter](https://twitter.com/linesofcodedev)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)**
+🎨  **[Portfolio](https://linesofcode.dev)** - 🐦  **[Twitter](https://twitter.com/linesofcodedev)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)**
 
 🧬🛠️ I'm building [KnowGraph.ai](https://knowgraph.ai).
 
