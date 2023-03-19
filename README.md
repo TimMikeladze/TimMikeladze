@@ -2,7 +2,7 @@
 
 🎨  **[Portfolio](https://linesofcode.dev)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)** - 🐦  **[Twitter](https://twitter.com/linesofcodedev)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)**
 
-🧬🛠️ Building [KnowGraph.ai](https://knowgraph.ai).
+🧬🛠️ I'm building [KnowGraph.ai](https://knowgraph.ai).
 
 🔬🥼 I currently work with **Graph databases**, **NextJS**, and **OpenAI**.
 
