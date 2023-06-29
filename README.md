@@ -1,6 +1,6 @@
 ## About me
 
-🎨  **[Portfolio](https://linesofcode.dev)** - 🧬 **[K•Graph](https://kgraph.co)** - 🐦 **[Twitter](https://twitter.com/linesofcode)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)** 
+🎨  **[Portfolio](https://linesofcode.dev)** - 🧬 **[k•graph](https://kgraph.co)** - 🐦 **[Twitter](https://twitter.com/linesofcode)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)** 
 
 🔬🥼 I work with **Graph databases**, **NextJS**, and **OpenAI**.
 
