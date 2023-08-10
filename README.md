@@ -47,7 +47,7 @@
 
 👖 **[Slack Manifest](https://github.com/TimMikeladze/slack-manifest)** - CLI tools for interacting with a Slack App Manifest. Store your manifest as a json file or typescript object and use slack-manifest to create, validate or update your Slack App as part of a CI/CD pipeline.
 
-♾️ **[HaloAPI.dev]([https://haloapi.dev](https://github.com/TimMikeladze/haloapi.dev))** - GraphQL API and NPM package for querying Halo Infinite data.
+♾️ **[Halo API](https://github.com/TimMikeladze/haloapi.dev)** - GraphQL API and NPM package for querying Halo Infinite data.
 
 ## 🏁 Starter-kits
 
