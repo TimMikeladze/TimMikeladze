@@ -12,9 +12,12 @@
 
 💻 🚀 Incrementing my GitHub **commit streak** one day at a time.
 
+---
+![](https://github-readme-streak-stats.herokuapp.com/?user=TimMikeladze&theme=dark&hide_border=false)<br/>
+
 ## 📱 Apps
 
-🧬 **[K•Graph](https://kgraph.co)** - The next-gen platform for building AI powered knowledge graphs. Take notes, learn new skills, onboard new team-members and share knowledge across your organization and beyond. [LinkedIn](https://www.linkedin.com/company/kgraphco/) | [Twitter](https://twitter.com/kgraphco).
+🧬 **[KGraph.co](https://kgraph.co)** - The next-gen platform for building AI powered knowledge graphs. Take notes, learn new skills, onboard new team-members and share knowledge across your organization and beyond. [LinkedIn](https://www.linkedin.com/company/kgraphco/) | [Twitter](https://twitter.com/kgraphco).
 
 💥 **[SmashTracker.app](https://smashtracker.app)** - Web app for tracking Super Smash Bros. match results and game statistics.
 
@@ -52,6 +55,6 @@
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=TimMikeladze&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TimMikeladze&theme=dark&hide_border=false)<br/>
+
 
 
