@@ -35,6 +35,8 @@
 
 ⚖️ **[Next Build Size](https://github.com/TimMikeladze/next-build-size)** - CLI tool to calculate and compare the sizes of artifacts produced by next build. Integrates with Github Actions, Discord and Slack.
 
+🗂️ **[Use File System](https://github.com/TimMikeladze/use-file-system)** - A set of React hooks to interact with the File System API. Watch a directory for changes and return a map of filepaths & contents when a file is added, modified or removed.
+
 🐌 **[Space Slug](https://github.com/TimMikeladze/space-slug)** - Generate unique slugs, usernames, numbers, custom words, and more using an intuitive api with zero dependencies.
 
 🥑 **[Arango Migrate](https://github.com/TimMikeladze/arango-migrate)** - Database migration tools and CLI for ArangoDB.
