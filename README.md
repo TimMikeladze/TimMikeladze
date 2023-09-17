@@ -37,7 +37,7 @@
 
 🗂️ **[Use File System](https://github.com/TimMikeladze/use-file-system)** - A set of React hooks to interact with the File System API. Watch a directory for changes and return a map of filepaths & contents when a file is added, modified or removed.
 
-🐙 **[Use Octokit](https://github.com/TimMikeladze/use-octokit)** - A data-fetching hook built on top of the Octokit and SWR for interacting with the Github API. Using this inside a React component for a type-safe, data-fetching experience with caching, polling, and more.
+🐙 **[Use Octokit](https://github.com/TimMikeladze/use-octokit)** - A data-fetching hook built on top of the Octokit and SWR for interacting with the Github API. Use this inside a React component for a type-safe, data-fetching experience with caching, polling, and more.
 
 🐌 **[Space Slug](https://github.com/TimMikeladze/space-slug)** - Generate unique slugs, usernames, numbers, custom words, and more using an intuitive api with zero dependencies.
 
