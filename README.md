@@ -1,4 +1,4 @@
-## About me
+## 👋 About
 
 🐦 **[Twitter](https://twitter.com/linesofcode)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)** 
 
@@ -11,9 +11,6 @@
 🌧️ ☕ **Seattle** is my homebase.
 
 💻 🚀 Incrementing my GitHub **commit streak** one day at a time.
-
----
-![](https://github-readme-streak-stats.herokuapp.com/?user=TimMikeladze&theme=dark&hide_border=false)<br/>
 
 ## 📱 Apps
 
