@@ -1,4 +1,4 @@
-## 👋 About
+## 👋 About me
 
 🐦 **[Twitter](https://twitter.com/linesofcode)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)** 
 
