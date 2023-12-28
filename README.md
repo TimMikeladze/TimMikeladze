@@ -32,7 +32,7 @@
 
 ⚖️ **[Next Build Size](https://github.com/TimMikeladze/next-build-size)** - CLI tool to calculate and compare the sizes of artifacts produced by next build. Integrates with Github Actions, Discord and Slack.
 
-✅ [Joy UI Confirm](https://github.com/TimMikeladze/joy-ui-confirm) - Confirmation dialogs built on top of [@mui/joy](https://mui.com/joy-ui/getting-started/) and react hooks.
+✅ **[Joy UI Confirm](https://github.com/TimMikeladze/joy-ui-confirm)** - Confirmation dialogs built on top of [@mui/joy](https://mui.com/joy-ui/getting-started/) and react hooks.
 
 🗂️ **[Use File System](https://github.com/TimMikeladze/use-file-system)** - A set of React hooks to interact with the File System API. Watch a directory for changes and return a map of filepaths & contents when a file is added, modified or removed.
 
