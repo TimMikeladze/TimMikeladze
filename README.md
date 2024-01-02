@@ -1,8 +1,10 @@
 ## 👋 About me
 
-🐦 **[Twitter](https://twitter.com/linesofcode)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7cih3mDZUI4EbbPlCwWE9f?si=iwGeowETQVupFEoRurU_uA)** 
+🐦 **[Twitter](https://twitter.com/linesofcode)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7GZBodAv2pyl6c3kJOD8ur?si=5828892bfd514b72)** 
 
-🔬🥼 I work with **Graph databases** and **NextJS**.
+
+
+🔬🥼 I like to work with **Graph databases** and **NextJS**.
 
 ⛰️ 🧗‍♂️ **Rock climbing** is cool.
 
@@ -31,6 +33,8 @@
 🔐 **[Next Auth MUI](https://github.com/TimMikeladze/next-auth-mui)** - Sign-in dialog component for NextAuth built with Material UI and React. Detects configured OAuth and Email providers and renders buttons or input fields for each respectively. Fully themeable, extensible and customizable to support custom credential flows.
 
 ⚖️ **[Next Build Size](https://github.com/TimMikeladze/next-build-size)** - CLI tool to calculate and compare the sizes of artifacts produced by next build. Integrates with Github Actions, Discord and Slack.
+
+⌚️ **[Next Realtime](https://github.com/TimMikeladze/next-realtime)** - Experimental drop-in solution for real-time data leveraging the Next.js Data Cache.
 
 ✅ **[Mui Joy Confirm](https://github.com/TimMikeladze/mui-joy-confirm)** - Confirmation dialogs built on top of [@mui/joy](https://mui.com/joy-ui/getting-started/) and react hooks.
 
