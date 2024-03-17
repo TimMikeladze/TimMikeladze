@@ -1,6 +1,6 @@
 ## 👋 About me
 
-🐦 **[Twitter](https://twitter.com/linesofcode)** -  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7GZBodAv2pyl6c3kJOD8ur?si=5828892bfd514b72)** 
+🐦 **[Twitter](https://twitter.com/linesofcode)** - 🦋**[Bluesky](https://bsky.app/profile/linesofcode.bsky.social)**  🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7GZBodAv2pyl6c3kJOD8ur?si=5828892bfd514b72)** 
 
 
 
