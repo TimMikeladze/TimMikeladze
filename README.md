@@ -28,7 +28,7 @@
 
 🗃️ **[Next Upload](https://github.com/TimMikeladze/next-upload)** - Turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio.
 
-🏁 **[Next Flag](https://github.com/TimMikeladze/next-flag)** - 🏁 Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, and can be deployed as a stand-alone feature flag server.
+🏁 **[Next Flag](https://github.com/TimMikeladze/next-flag)** - Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, and can be deployed as a stand-alone feature flag server.
 
 📮 **[Next Invite](https://github.com/TimMikeladze/next-invite)** - A drop-in invite system for your Next.js app. Generate and share invite links for users to join your app.
 
@@ -60,7 +60,7 @@
 
 🌡️ **[TSC Baseline](https://github.com/TimMikeladze/tsc-baseline/)** - Save a baseline of TypeScript errors and compare new errors against it. Useful for type-safe feature development in TypeScript projects that have a lot of errors. This tool will filter out errors that are already in the baseline and only show new errors.
 
-## 🏁 Starter-kits
+## 🚀 Starter-kits
 
 🔥 **[React / Typescript Package Starter](https://github.com/TimMikeladze/tsup-react-package-starter)** - A modern starter-kit for creating & publishing React components packages to NPM. Batteries included. Spend more time coding and less time configuring.
 
