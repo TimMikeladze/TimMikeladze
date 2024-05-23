@@ -28,6 +28,8 @@
 
 🗃️ **[Next Upload](https://github.com/TimMikeladze/next-upload)** - Turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio.
 
+🏁 **[Next Flag](https://github.com/TimMikeladze/next-flag)** - 🏁 Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, and can be deployed as a stand-alone feature flag server.
+
 📮 **[Next Invite](https://github.com/TimMikeladze/next-invite)** - A drop-in invite system for your Next.js app. Generate and share invite links for users to join your app.
 
 🔐 **[Next Auth MUI](https://github.com/TimMikeladze/next-auth-mui)** - Sign-in dialog component for NextAuth built with Material UI and React. Detects configured OAuth and Email providers and renders buttons or input fields for each respectively. Fully themeable, extensible and customizable to support custom credential flows.
