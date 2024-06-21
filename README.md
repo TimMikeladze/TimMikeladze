@@ -60,6 +60,8 @@
 
 🌡️ **[TSC Baseline](https://github.com/TimMikeladze/tsc-baseline/)** - Save a baseline of TypeScript errors and compare new errors against it. Useful for type-safe feature development in TypeScript projects that have a lot of errors. This tool will filter out errors that are already in the baseline and only show new errors.
 
+📂 **[Scrape Directory Listing](https://github.com/TimMikeladze/scrape-directory-listing)** - Download all the files from a directory listing.
+
 ## 🚀 Starter-kits
 
 🔥 **[React / Typescript Package Starter](https://github.com/TimMikeladze/tsup-react-package-starter)** - A modern starter-kit for creating & publishing React components packages to NPM. Batteries included. Spend more time coding and less time configuring.
