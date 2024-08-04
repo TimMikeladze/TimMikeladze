@@ -66,7 +66,7 @@
 
 ## 🚀 Starter-kits
 
-🔥 **[React / Typescript Package Starter](https://github.com/TimMikeladze/tsup-react-package-starter)** - A modern starter-kit for creating & publishing React components packages to NPM. Batteries included. Spend more time coding and less time configuring.
+🔥 **[Typescript / React Package Starter](https://github.com/TimMikeladze/typescript-react-package-starter)** - A modern starter-kit for creating & publishing TypeScript and/or React components packages to NPM. Batteries included. Spend more time coding and less time configuring.
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TimMikeladze&theme=dark&hide_border=false)<br/>
