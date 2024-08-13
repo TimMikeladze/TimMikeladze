@@ -1,78 +1,65 @@
-## 👋 About me
+# 👋  About me
 
-🐦 **[Twitter](https://twitter.com/linesofcode)** - 🦋 **[Bluesky](https://bsky.app/profile/linesofcode.bsky.social)** - 🐘  **[Mastodon](https://fosstodon.org/@linesofcode)**  -  🎧  **[Liked Albums](https://open.spotify.com/playlist/7GZBodAv2pyl6c3kJOD8ur?si=5828892bfd514b72)** 
+🐦 [**Twitter**](https://twitter.com/linesofcode) ∙ [**🗓️  Book a meeting**](https://calendly.com/linesofcode/lets-talk) ∙ 🎧 [**Liked Albums**](https://open.spotify.com/playlist/7GZBodAv2pyl6c3kJOD8ur?si=5828892bfd514b72)
 
+🔬🥼 I like to work with **Graph databases** and **NextJS**.
 
+⛰️ 🧗‍♂️ **Rock climbing** is cool.
 
-🔬🥼 I like to work with **Graph databases** and **NextJS**.
+🌊 ⚓ Traveling full-time since 2021. I've lived in 🇦🇱 **Albania**, 🇬🇪 **Georgia**, 🇰🇿 **Kazakhstan**, 🇹🇷 **Turkey**, and 🇺🇦 **Ukraine**.
 
-⛰️ 🧗‍♂️ **Rock climbing** is cool.
+🌧️ ☕ **Seattle** is my homebase.
 
-🌊 ⚓ Traveling full-time since 2021. I've lived in 🇦🇱 **Albania**, 🇬🇪 **Georgia**, 🇰🇿 **Kazakhstan**, 🇹🇷 **Turkey**, and 🇺🇦 **Ukraine**.
+# **📱  Apps**
 
-🌧️ ☕ **Seattle** is my homebase.
+🧬 [**KGraph.co**](https://kgraph.co/) - The next-gen platform for building AI powered knowledge graphs. Take notes, learn new skills, onboard new team-members and share knowledge across your organization and beyond. [LinkedIn](https://www.linkedin.com/company/kgraphco/) | [Twitter](https://twitter.com/kgraphco).
 
-💻 🚀 Incrementing my GitHub **commit streak** one day at a time.
+💥 [**SmashTracker.app**](https://smashtracker.app/) - Web app for tracking Super Smash Bros. match results and game statistics.
 
-## 📱 Apps
+🦎 [**Reptiles.dev**](https://reptiles.dev/) - Image placeholder service that generates colorful SVGs. Super fast and easy to use. [GitHub](https://github.com/TimMikeladze/reptiles.dev).
 
-🧬 **[KGraph.co](https://kgraph.co)** - The next-gen platform for building AI powered knowledge graphs. Take notes, learn new skills, onboard new team-members and share knowledge across your organization and beyond. [LinkedIn](https://www.linkedin.com/company/kgraphco/) | [Twitter](https://twitter.com/kgraphco).
+# **📦  Packages**
 
-💥 **[SmashTracker.app](https://smashtracker.app)** - Web app for tracking Super Smash Bros. match results and game statistics.
+🗄️ [**Gist Database**](https://github.com/TimMikeladze/gist-database) - Transform gist into your personal key/value datastore.
 
-🦎 **[Reptiles.dev](https://reptiles.dev)** - Image placeholder service that generates colorful SVGs. Super fast and easy to use. [GitHub](https://github.com/TimMikeladze/reptiles.dev).
+🗃️ [**Next Upload**](https://github.com/TimMikeladze/next-upload) - Turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio.
 
-## 📦 Packages
+🏁 [**Next Flag**](https://github.com/TimMikeladze/next-flag) - Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, and can be deployed as a stand-alone feature flag server.
 
-🗄️ **[Gist Database](https://github.com/TimMikeladze/gist-database)** - Transform gist into your personal key/value datastore.
+🔒 [**Next Protect**](https://github.com/TimMikeladze/next-protect) - Password protect a Next.js site. Supports App Router, Middleware and Edge Runtime.
 
-🗃️ **[Next Upload](https://github.com/TimMikeladze/next-upload)** - Turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio.
+📮 [**Next Invite**](https://github.com/TimMikeladze/next-invite) - A drop-in invite system for your Next.js app. Generate and share invite links for users to join your app.
 
-🏁 **[Next Flag](https://github.com/TimMikeladze/next-flag)** - Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, and can be deployed as a stand-alone feature flag server.
+🔐 [**Next Auth MUI**](https://github.com/TimMikeladze/next-auth-mui) - Sign-in dialog component for NextAuth built with Material UI and React. Detects configured OAuth and Email providers and renders buttons or input fields for each respectively. Fully themeable, extensible and customizable to support custom credential flows.
 
-🔒 **[Next Protect](https://github.com/TimMikeladze/next-protect)** - Password protect a Next.js site. Supports App Router, Middleware and Edge Runtime.
+⚖️ [**Next Build Size**](https://github.com/TimMikeladze/next-build-size) - CLI tool to calculate and compare the sizes of artifacts produced by next build. Integrates with Github Actions, Discord and Slack.
 
-📮 **[Next Invite](https://github.com/TimMikeladze/next-invite)** - A drop-in invite system for your Next.js app. Generate and share invite links for users to join your app.
+⌚️ [**Next Realtime**](https://github.com/TimMikeladze/next-realtime) - Experimental drop-in solution for real-time data leveraging the Next.js Data Cache.
 
-🔐 **[Next Auth MUI](https://github.com/TimMikeladze/next-auth-mui)** - Sign-in dialog component for NextAuth built with Material UI and React. Detects configured OAuth and Email providers and renders buttons or input fields for each respectively. Fully themeable, extensible and customizable to support custom credential flows.
+✅ [**Mui Joy Confirm**](https://github.com/TimMikeladze/mui-joy-confirm) - Confirmation dialogs built on top of [@mui/joy](https://mui.com/joy-ui/getting-started/) and react hooks.
 
-⚖️ **[Next Build Size](https://github.com/TimMikeladze/next-build-size)** - CLI tool to calculate and compare the sizes of artifacts produced by next build. Integrates with Github Actions, Discord and Slack.
+🗂️ [**Use File System**](https://github.com/TimMikeladze/use-file-system) - A set of React hooks to interact with the File System API. Watch a directory for changes and return a map of filepaths & contents when a file is added, modified or removed.
 
-⌚️ **[Next Realtime](https://github.com/TimMikeladze/next-realtime)** - Experimental drop-in solution for real-time data leveraging the Next.js Data Cache.
+🐙 [**Use Octokit**](https://github.com/TimMikeladze/use-octokit) - A data-fetching hook built on top of the Octokit and SWR for interacting with the Github API. Use this inside a React component for a type-safe, data-fetching experience with caching, polling, and more.
 
-✅ **[Mui Joy Confirm](https://github.com/TimMikeladze/mui-joy-confirm)** - Confirmation dialogs built on top of [@mui/joy](https://mui.com/joy-ui/getting-started/) and react hooks.
+🐌 [**Space Slug**](https://github.com/TimMikeladze/space-slug) - Generate unique slugs, usernames, numbers, custom words, and more using an intuitive api with zero dependencies.
 
-🗂️ **[Use File System](https://github.com/TimMikeladze/use-file-system)** - A set of React hooks to interact with the File System API. Watch a directory for changes and return a map of filepaths & contents when a file is added, modified or removed.
+🥑 [**Arango Migrate**](https://github.com/TimMikeladze/arango-migrate) - Database migration tools and CLI for ArangoDB.
 
-🐙 **[Use Octokit](https://github.com/TimMikeladze/use-octokit)** - A data-fetching hook built on top of the Octokit and SWR for interacting with the Github API. Use this inside a React component for a type-safe, data-fetching experience with caching, polling, and more.
+🗝️ [**Keyv Arango**](https://github.com/TimMikeladze/keyv-arango) - ArangoDB store for Keyv: a simple key-value storage with support for multiple backends.
 
-🐌 **[Space Slug](https://github.com/TimMikeladze/space-slug)** - Generate unique slugs, usernames, numbers, custom words, and more using an intuitive api with zero dependencies.
+🤖 [**AI Complete**](https://github.com/TimMikeladze/ai-complete) - A toolkit that super-charges your workflow when working with openai.
 
-🥑 **[Arango Migrate](https://github.com/TimMikeladze/arango-migrate)** - Database migration tools and CLI for ArangoDB.
+📑 [**Markdown To API**](https://github.com/TimMikeladze/markdown-to-api) - Generate GraphQL APIs from Markdown files plus seamlessly integrate with Next.js for generating static content or server side rendering. Perfect for using a Git repo as a simple headless CMS powered by Markdown files.
 
-🗝️ **[Keyv Arango](https://github.com/TimMikeladze/keyv-arango)** - ArangoDB store for Keyv: a simple key-value storage with support for multiple backends.
+👖 [**Slack Manifest**](https://github.com/TimMikeladze/slack-manifest) - CLI tools for interacting with a Slack App Manifest. Store your manifest as a json file or typescript object and use slack-manifest to create, validate or update your Slack App as part of a CI/CD pipeline.
 
-🤖 **[AI Complete](https://github.com/TimMikeladze/ai-complete)** - A toolkit that super-charges your workflow when working with openai.
+♾️ [**Halo API**](https://github.com/TimMikeladze/haloapi.dev) - GraphQL API and NPM package for querying Halo Infinite data.
 
-📑 **[Markdown To API](https://github.com/TimMikeladze/markdown-to-api)** - Generate GraphQL APIs from Markdown files plus seamlessly integrate with Next.js for generating static content or server side rendering. Perfect for using a Git repo as a simple headless CMS powered by Markdown files.
+🌡️ [**TSC Baseline**](https://github.com/TimMikeladze/tsc-baseline/) - Save a baseline of TypeScript errors and compare new errors against it. Useful for type-safe feature development in TypeScript projects that have a lot of errors. This tool will filter out errors that are already in the baseline and only show new errors.
 
-👖 **[Slack Manifest](https://github.com/TimMikeladze/slack-manifest)** - CLI tools for interacting with a Slack App Manifest. Store your manifest as a json file or typescript object and use slack-manifest to create, validate or update your Slack App as part of a CI/CD pipeline.
+📂 [**Scrape Directory Listing**](https://github.com/TimMikeladze/scrape-directory-listing) - Download all the files from a directory listing.
 
-♾️ **[Halo API](https://github.com/TimMikeladze/haloapi.dev)** - GraphQL API and NPM package for querying Halo Infinite data.
+# **🚀  Starter-kits**
 
-🌡️ **[TSC Baseline](https://github.com/TimMikeladze/tsc-baseline/)** - Save a baseline of TypeScript errors and compare new errors against it. Useful for type-safe feature development in TypeScript projects that have a lot of errors. This tool will filter out errors that are already in the baseline and only show new errors.
-
-📂 **[Scrape Directory Listing](https://github.com/TimMikeladze/scrape-directory-listing)** - Download all the files from a directory listing.
-
-## 🚀 Starter-kits
-
-🔥 **[Typescript / React Package Starter](https://github.com/TimMikeladze/typescript-react-package-starter)** - A modern starter-kit for creating & publishing TypeScript and/or React components packages to NPM. Batteries included. Spend more time coding and less time configuring.
-
----
-![](https://github-readme-streak-stats.herokuapp.com/?user=TimMikeladze&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=TimMikeladze&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
-
-
+🔥 [**Typescript / React Package Starter**](https://github.com/TimMikeladze/typescript-react-package-starter) - A modern starter-kit for creating & publishing TypeScript and/or React components packages to NPM. Batteries included. Spend more time coding and less time configuring.
