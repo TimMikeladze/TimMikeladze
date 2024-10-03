@@ -60,7 +60,7 @@
 
 📂 [**Scrape Directory Listing**](https://github.com/TimMikeladze/scrape-directory-listing) - Download all the files from a directory listing.
 
-🎋 [**GitHub Issue to Branch**](https://github.com/TimMikeladze/scrape-directory-listing) CLI tool to quickly create well-named branches from GitHub issues.
+🎋 [**GitHub Issue to Branch**](https://github.com/TimMikeladze/scrape-directory-listing) - CLI tool to quickly create well-named branches from GitHub issues.
 
 # **🚀  Starter-kits**
 
