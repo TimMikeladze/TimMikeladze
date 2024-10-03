@@ -60,6 +60,8 @@
 
 📂 [**Scrape Directory Listing**](https://github.com/TimMikeladze/scrape-directory-listing) - Download all the files from a directory listing.
 
+🎋 [**GitHub Issue to Branch**](https://github.com/TimMikeladze/scrape-directory-listing) CLI tool to quickly create well-named branches from GitHub issues.
+
 # **🚀  Starter-kits**
 
 🔥 [**Typescript / React Package Starter**](https://github.com/TimMikeladze/typescript-react-package-starter) - A modern starter-kit for creating & publishing TypeScript and/or React components packages to NPM. Batteries included. Spend more time coding and less time configuring.
