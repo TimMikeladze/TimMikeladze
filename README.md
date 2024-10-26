@@ -12,8 +12,6 @@
 
 # **📱  Apps**
 
-🧬 [**KGraph.co**](https://kgraph.co/) - The next-gen platform for building AI powered knowledge graphs. Take notes, learn new skills, onboard new team-members and share knowledge across your organization and beyond. [LinkedIn](https://www.linkedin.com/company/kgraphco/) | [Twitter](https://twitter.com/kgraphco).
-
 💥 [**SmashTracker.app**](https://smashtracker.app/) - Web app for tracking Super Smash Bros. match results and game statistics.
 
 🦎 [**Reptiles.dev**](https://reptiles.dev/) - Image placeholder service that generates colorful SVGs. Super fast and easy to use. [GitHub](https://github.com/TimMikeladze/reptiles.dev).
