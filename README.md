@@ -62,6 +62,8 @@
 
 📏 [**React DevBar**](https://github.com/TimMikeladze/react-devbar/) - A customizable floating toolbar for React applications. Build and integrate your own dev tools with a draggable interface inspired by the Vercel toolbar. Perfect for adding debugging panels, theme controls, and other development utilities for your app.
 
+⏲️ [**Fake Time Series**](https://github.com/TimMikeladze/fake-time-series) - A flexible CLI tool and library for generating fake time series data. Perfect for testing, development, and demonstration purposes.
+
 # **🚀  Starter-kits**
 
 🔥 [**Typescript / React Package Starter**](https://github.com/TimMikeladze/typescript-react-package-starter) - A modern starter-kit for creating & publishing TypeScript and/or React components packages to NPM. Batteries included. Spend more time coding and less time configuring.
