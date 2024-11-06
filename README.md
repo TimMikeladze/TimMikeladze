@@ -1,6 +1,6 @@
 # 👋  About me
 
-🦋 [**Bluesky**]() ∙ 🐦 [**Twitter**](https://twitter.com/linesofcode) ∙ [**🗓️  Book a meeting**](https://calendly.com/linesofcode/lets-talk) ∙ 🎧 [**Liked Albums**](https://open.spotify.com/playlist/7GZBodAv2pyl6c3kJOD8ur?si=5828892bfd514b72)
+🦋 [**Bluesky**](https://bsky.app/profile/linesofcode.bsky.social) ∙ 🐦 [**Twitter**](https://twitter.com/linesofcode) ∙ [**🗓️  Book a meeting**](https://calendly.com/linesofcode/lets-talk) ∙ 🎧 [**Liked Albums**](https://open.spotify.com/playlist/7GZBodAv2pyl6c3kJOD8ur?si=5828892bfd514b72)
 
 🔬🥼 I like to work with **Graph databases** and **NextJS**.
 
