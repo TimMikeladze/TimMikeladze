@@ -12,7 +12,7 @@
 
 # **📱  Apps**
 
- 🖼️ [**GetMondrian.com**](https://getmondrian.com/) - Generate and build shareable Mondrian patterns as SVGs / Webp. 
+🖼️ [**GetMondrian.com**](https://getmondrian.com/) - Generate and build shareable Mondrian patterns as SVGs / Webp. 
 
 💥 [**SmashTracker.app**](https://smashtracker.app/) - Web app for tracking Super Smash Bros. match results and game statistics.
 
