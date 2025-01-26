@@ -6,7 +6,7 @@
 
 ⛰️ 🧗‍♂️ **Rock climbing** is cool.
 
-🌊 ⚓ Traveling full-time since 2021. I've lived in 🇦🇱 **Albania**, 🇬🇪 **Georgia**, 🇯🇵 Japan, 🇰🇿 **Kazakhstan**, 🇹🇷 **Turkey**, and 🇺🇦 **Ukraine**.
+🌊 ⚓ Traveling full-time since 2021. I've lived in 🇦🇱 **Albania**, 🇬🇪 **Georgia**, 🇯🇵 **Japan**, 🇰🇿 **Kazakhstan**, 🇹🇷 **Turkey**, and 🇺🇦 **Ukraine**.
 
 🌧️ ☕ **Seattle** is my homebase.
 
