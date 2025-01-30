@@ -28,8 +28,6 @@
 
 🔒 [**Next Protect**](https://github.com/TimMikeladze/next-protect) - Password protect a Next.js site. Supports App Router, Middleware and Edge Runtime.
 
-📮 [**Next Invite**](https://github.com/TimMikeladze/next-invite) - A drop-in invite system for your Next.js app. Generate and share invite links for users to join your app.
-
 🔐 [**Next Auth MUI**](https://github.com/TimMikeladze/next-auth-mui) - Sign-in dialog component for NextAuth built with Material UI and React. Detects configured OAuth and Email providers and renders buttons or input fields for each respectively. Fully themeable, extensible and customizable to support custom credential flows.
 
 ⚖️ [**Next Build Size**](https://github.com/TimMikeladze/next-build-size) - CLI tool to calculate and compare the sizes of artifacts produced by next build. Integrates with Github Actions, Discord and Slack.
