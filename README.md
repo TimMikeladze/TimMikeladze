@@ -16,7 +16,9 @@ My home-base is 🌧️ [**Seattle**](https://en.wikipedia.org/wiki/Seattle) and
 
 ## **📦 Packages**
 
+- 🗂️ [**Use File System**](https://github.com/TimMikeladze/use-file-system) - A set of React hooks to interact with the File System API.
 - 🗄️ [**Gist Database**](https://github.com/TimMikeladze/gist-database) - Transform gist into your personal key/value datastore.
+- 📡 **[Install Command](https://github.com/TimMikeladze/react-install-command/)** - A React component for rendering a 'npm install <package name>' command block. Supports multiple package managers.
 - 🗃️ [**Next Upload**](https://github.com/TimMikeladze/next-upload) - Turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio.
 - 🏁 [**Next Flag**](https://github.com/TimMikeladze/next-flag) - Feature flags powered by GitHub issues and NextJS.
 - 🔒 [**Next Protect**](https://github.com/TimMikeladze/next-protect) - Password protect a Next.js site.
@@ -24,7 +26,6 @@ My home-base is 🌧️ [**Seattle**](https://en.wikipedia.org/wiki/Seattle) and
 - ⚖️ [**Next Build Size**](https://github.com/TimMikeladze/next-build-size) - CLI tool to calculate and compare the sizes of artifacts produced by next build.
 - ⌚️ [**Next Realtime**](https://github.com/TimMikeladze/next-realtime) - Experimental drop-in solution for real-time data leveraging the Next.js Data Cache.
 - ✅ [**Mui Joy Confirm**](https://github.com/TimMikeladze/mui-joy-confirm) - Confirmation dialogs built on top of [@mui/joy](https://mui.com/joy-ui/getting-started/).
-- 🗂️ [**Use File System**](https://github.com/TimMikeladze/use-file-system) - A set of React hooks to interact with the File System API.
 - 🐙 [**Use Octokit**](https://github.com/TimMikeladze/use-octokit) - A data-fetching hook built on top of the Octokit and SWR.
 - 🐌 [**Space Slug**](https://github.com/TimMikeladze/space-slug) - Generate unique slugs, usernames, numbers, and custom words.
 - 🥑 [**Arango Migrate**](https://github.com/TimMikeladze/arango-migrate) - Database migration tools and CLI for ArangoDB.
