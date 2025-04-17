@@ -16,7 +16,7 @@ My home-base is 🌧️ [**Seattle**](https://en.wikipedia.org/wiki/Seattle) and
 
 ## **📦 Packages**
 
-- 🗂️ [**Use File System**](https://github.com/TimMikeladze/use-file-system) - A set of React hooks to interact with the File System API.
+- 🗂️ [**Use FS**](https://github.com/TimMikeladze/use-file-system) - A set of React hooks to interact with the File System API.
 - 🐝 [**Rehiver**](https://github.com/TimMikeladze/rehiver) - Super-charge your S3 hive partitioned based file operations with intelligent pattern matching, change detection, optimized data-fetching, and out-of-the-box time series support.
 - 🗄️ [**Gist Database**](https://github.com/TimMikeladze/gist-database) - Transform gist into your personal key/value datastore.
 - 📡 **[Install Command](https://github.com/TimMikeladze/react-install-command/)** - A React component for rendering a 'npm install <package name>' command block. Supports multiple package managers.
