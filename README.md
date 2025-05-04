@@ -2,7 +2,7 @@
 
 I like to work with graph data-structures, time-series data, and NextJS.
 
-Traveling full-time since 2021. I've lived in 🇦🇱 [**Albania**](https://en.wikipedia.org/wiki/Albania), 🇬🇪 [**Georgia**](<https://en.wikipedia.org/wiki/Georgia_(country)>), 🇯🇵 [**Japan**](https://en.wikipedia.org/wiki/Japan), 🇰🇿 [**Kazakhstan**](https://en.wikipedia.org/wiki/Kazakhstan), 🇹🇷 [**Turkey**](https://en.wikipedia.org/wiki/Turkey), and 🇺🇦 [**Ukraine**](https://en.wikipedia.org/wiki/Ukraine).
+Since 2021 I've lived in 🇦🇱 [**Albania**](https://en.wikipedia.org/wiki/Albania), 🇬🇪 [**Georgia**](<https://en.wikipedia.org/wiki/Georgia_(country)>), 🇯🇵 [**Japan**](https://en.wikipedia.org/wiki/Japan), 🇰🇿 [**Kazakhstan**](https://en.wikipedia.org/wiki/Kazakhstan), 🇹🇷 [**Turkey**](https://en.wikipedia.org/wiki/Turkey), and 🇺🇦 [**Ukraine**](https://en.wikipedia.org/wiki/Ukraine).
 
 My home-base is 🌧️ [**Seattle**](https://en.wikipedia.org/wiki/Seattle) and I think 🪨 [**rock climbing**](https://en.wikipedia.org/wiki/Bouldering) is cool.
 
@@ -18,6 +18,7 @@ My home-base is 🌧️ [**Seattle**](https://en.wikipedia.org/wiki/Seattle) and
 
 - 🗂️ [**Use FS**](https://github.com/TimMikeladze/use-file-system) - A set of React hooks to interact with the File System API.
 - 🐝 [**Rehiver**](https://github.com/TimMikeladze/rehiver) - Super-charge your S3 hive partitioned based file operations with intelligent pattern matching, change detection, optimized data-fetching, and out-of-the-box time series support.
+- 🔇 [**S3 Mutex**](https://github.com/TimMikeladze/s3-mutex) - A simple distributed locking mechanism for Node.js applications using AWS S3 as the backend storage.
 - 🗄️ [**Gist Database**](https://github.com/TimMikeladze/gist-database) - Transform gist into your personal key/value datastore.
 - 📡 **[Install Command](https://github.com/TimMikeladze/react-install-command/)** - A React component for rendering a 'npm install <package name>' command block. Supports multiple package managers.
 - 🗃️ [**Next Upload**](https://github.com/TimMikeladze/next-upload) - Turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio.
