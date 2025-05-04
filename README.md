@@ -2,9 +2,9 @@
 
 I like to work with graph data-structures, time-series data, and NextJS.
 
-Since 2021 I've lived in 🇦🇱 [**Albania**](https://en.wikipedia.org/wiki/Albania), 🇬🇪 [**Georgia**](<https://en.wikipedia.org/wiki/Georgia_(country)>), 🇯🇵 [**Japan**](https://en.wikipedia.org/wiki/Japan), 🇰🇿 [**Kazakhstan**](https://en.wikipedia.org/wiki/Kazakhstan), 🇹🇷 [**Turkey**](https://en.wikipedia.org/wiki/Turkey), and 🇺🇦 [**Ukraine**](https://en.wikipedia.org/wiki/Ukraine).
-
 My home-base is 🌧️ [**Seattle**](https://en.wikipedia.org/wiki/Seattle) and I think 🪨 [**rock climbing**](https://en.wikipedia.org/wiki/Bouldering) is cool.
+
+Since 2021 I've lived in 🇦🇱 [**Albania**](https://en.wikipedia.org/wiki/Albania) 🇬🇪 [**Georgia**](<https://en.wikipedia.org/wiki/Georgia_(country)>) 🇯🇵 [**Japan**](https://en.wikipedia.org/wiki/Japan) 🇰🇿 [**Kazakhstan**](https://en.wikipedia.org/wiki/Kazakhstan) 🇹🇷 [**Turkey**](https://en.wikipedia.org/wiki/Turkey) and 🇺🇦 [**Ukraine**](https://en.wikipedia.org/wiki/Ukraine).
 
 [**Click here**](https://calendly.com/linesofcode/lets-talk) to schedule a meeting with me.
 
