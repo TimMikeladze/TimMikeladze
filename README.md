@@ -4,7 +4,7 @@ I like to work with graph data-structures, time-series data, and NextJS.
 
 My home-base is 🌧️ [**Seattle**](https://en.wikipedia.org/wiki/Seattle) and I think 🪨 [**rock climbing**](https://en.wikipedia.org/wiki/Bouldering) is cool.
 
-Since 2021 I've lived in 🇦🇱 [**Albania**](https://en.wikipedia.org/wiki/Albania) 🇬🇪 [**Georgia**](<https://en.wikipedia.org/wiki/Georgia_(country)>) 🇯🇵 [**Japan**](https://en.wikipedia.org/wiki/Japan) 🇰🇿 [**Kazakhstan**](https://en.wikipedia.org/wiki/Kazakhstan) 🇹🇷 [**Turkey**](https://en.wikipedia.org/wiki/Turkey) and 🇺🇦 [**Ukraine**](https://en.wikipedia.org/wiki/Ukraine).
+Since 2021 I've lived in 🇦🇱 [**Albania**](https://en.wikipedia.org/wiki/Albania) 🇬🇪 [**Georgia**](<https://en.wikipedia.org/wiki/Georgia_(country)>) 🇯🇵 [**Japan**](https://en.wikipedia.org/wiki/Japan) 🇰🇿 [**Kazakhstan**](https://en.wikipedia.org/wiki/Kazakhstan) 🇹🇷 [**Turkey**](https://en.wikipedia.org/wiki/Turkey), 🇺🇦 [**Ukraine**](https://en.wikipedia.org/wiki/Ukraine) and the 🇦🇪 [**UAE**](https://en.wikipedia.org/wiki/United_Arab_Emirates)
 
 [**Click here**](https://calendly.com/linesofcode/lets-talk) to schedule a meeting with me.
 
@@ -42,6 +42,7 @@ Since 2021 I've lived in 🇦🇱 [**Albania**](https://en.wikipedia.org/wiki/Al
 - 🎋 [**GitHub Issue to Branch**](https://github.com/TimMikeladze/github-issue-to-branch) - CLI tool to quickly create well-named branches from GitHub issues.
 - 📏 [**React DevBar**](https://github.com/TimMikeladze/react-devbar/) - A customizable floating toolbar for React applications.
 - ⏲️ [**Fake Time Series**](https://github.com/TimMikeladze/fake-time-series) - A flexible CLI tool for generating fake time series data.
+- ⏲⚔️ [**YGOAPI**](https://github.com/TimMikeladze/ygoapi) - TypeScript client for the YGOPRODeck API, a Yu-Gi-Oh! card database.
 
 ## **🚀 Starter-kits**
 
