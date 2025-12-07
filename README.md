@@ -1,4 +1,4 @@
-## **👋 Hello there**
+## **👋 Hello there, my name is Tim.**
 
 I like to work with graph data-structures, time-series data, and NextJS.
 
@@ -42,7 +42,7 @@ Since 2021 I've lived in 🇦🇱 [**Albania**](https://en.wikipedia.org/wiki/Al
 - 🎋 [**GitHub Issue to Branch**](https://github.com/TimMikeladze/github-issue-to-branch) - CLI tool to quickly create well-named branches from GitHub issues.
 - 📏 [**React DevBar**](https://github.com/TimMikeladze/react-devbar/) - A customizable floating toolbar for React applications.
 - ⏲️ [**Fake Time Series**](https://github.com/TimMikeladze/fake-time-series) - A flexible CLI tool for generating fake time series data.
-- ⏲⚔️ [**YGOAPI**](https://github.com/TimMikeladze/ygoapi) - TypeScript client for the YGOPRODeck API, a Yu-Gi-Oh! card database.
+- ⚔️ [**YGOAPI**](https://github.com/TimMikeladze/ygoapi) - TypeScript client for the YGOPRODeck API, a Yu-Gi-Oh! card database.
 
 ## **🚀 Starter-kits**
 
