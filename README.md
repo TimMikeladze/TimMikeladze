@@ -1,1 +1,2 @@
-https://linesofcode.dev
+[linesofcode.dev](https://linesofcode.dev)
+
