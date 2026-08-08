@@ -4,8 +4,6 @@
 
 ## About
 
-I like to work with [graph data-structures](https://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29), [time-series data](https://en.wikipedia.org/wiki/Time_series), [DuckDB](https://duckdb.org/), and [NextJS](https://nextjs.org/).
-
 - I live in [Seattle](https://en.wikipedia.org/wiki/Seattle) and frequently travel abroad.
 - My first line of code was written in 2006.
 - I like to work with [graph data-structures](https://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29), [time-series data](https://en.wikipedia.org/wiki/Time_series), and [DuckDB](https://duckdb.org/).
@@ -15,12 +13,12 @@ I like to work with [graph data-structures](https://en.wikipedia.org/wiki/Graph_
 
 | Name | Description |
 | --- | --- |
-| [pongo.sh](https://pongo.sh) ([source](https://github.com/TimMikeladze/pongo)) | Open-source uptime monitoring and status pages. |
-| [NationalDex.app](http://nationaldex.app/) ([source](https://github.com/TimMikeladze/NationalDex)) | A digital Pokedex for exploring everything Pokemon. |
+| [pongo.sh](https://pongo.sh) [🐶](https://github.com/TimMikeladze/pongo) | Open-source uptime monitoring and status pages. |
+| [NationalDex.app](http://nationaldex.app/) [📱](https://github.com/TimMikeladze/NationalDex) | A digital Pokedex for exploring everything Pokemon. |
 | [Floppy.sh](http://floppy.sh/) | A comic book reader for your digital comic collection. |
-| [GetMondrian.com](https://getmondrian.com) ([source](https://github.com/TimMikeladze/get-mondrian)) | Generate and build shareable Mondrian patterns as SVGs / Webp. |
+| [GetMondrian.com](https://getmondrian.com) [🖼️](https://github.com/TimMikeladze/get-mondrian) | Generate and build shareable Mondrian patterns as SVGs / Webp. |
 | [SmashTracker.app](https://smashtracker.app) | Web app for tracking Super Smash Bros. match results and game statistics. |
-| [Reptiles.dev](https://reptiles.dev) ([source](https://github.com/TimMikeladze/reptiles.dev)) | Image placeholder service that generates colorful SVGs. Super fast and easy to use. |
+| [Reptiles.dev](https://reptiles.dev) [🦎](https://github.com/TimMikeladze/reptiles.dev) | Image placeholder service that generates colorful SVGs. Super fast and easy to use. |
 
 ## Packages
 
