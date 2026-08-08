@@ -1,5 +1,3 @@
-# Tim Mikeladze
-
 📅 [Book a call](https://calendly.com/linesofcode/lets-talk) · 🐙 [GitHub](https://github.com/TimMikeladze) · 💼 [LinkedIn](https://linkedin.com/in/tim-mikeladze) · 🐦 [Twitter](https://twitter.com/linesofcode) · 🦋 [Bluesky](https://bsky.app/profile/linesofcode.bsky.social) · 🎧 [Spotify](https://open.spotify.com/user/tdcqc3qqwlgcmsio0wbs8kjew?si=5f26a457020544f3)
 
 ## About
@@ -12,46 +10,42 @@
 
 ## Apps
 
-| Name | Description |
-| --- | --- |
-| [🐶 pongo.sh](https://pongo.sh) ([GitHub](https://github.com/TimMikeladze/pongo)) | Open-source uptime monitoring and status pages. |
-| [📱 NationalDex.app](http://nationaldex.app/) ([GitHub](https://github.com/TimMikeladze/NationalDex)) | A digital Pokedex for exploring everything Pokemon. |
-| [📚 Floppy.sh](http://floppy.sh/) | A comic book reader for your digital comic collection. |
-| [🖼️ GetMondrian.com](https://getmondrian.com) ([GitHub](https://github.com/TimMikeladze/get-mondrian)) | Generate and build shareable Mondrian patterns as SVGs / Webp. |
-| [💥 SmashTracker.app](https://smashtracker.app) | Web app for tracking Super Smash Bros. match results and game statistics. |
-| [🦎 Reptiles.dev](https://reptiles.dev) ([GitHub](https://github.com/TimMikeladze/reptiles.dev)) | Image placeholder service that generates colorful SVGs. Super fast and easy to use. |
+- [🐶 pongo.sh](https://pongo.sh) ([GitHub](https://github.com/TimMikeladze/pongo)) — Open-source uptime monitoring and status pages.
+- [📱 NationalDex.app](http://nationaldex.app/) ([GitHub](https://github.com/TimMikeladze/NationalDex)) — A digital Pokedex for exploring everything Pokemon.
+- [📚 Floppy.sh](http://floppy.sh/) — A comic book reader for your digital comic collection.
+- [🖼️ GetMondrian.com](https://getmondrian.com) ([GitHub](https://github.com/TimMikeladze/get-mondrian)) — Generate and build shareable Mondrian patterns as SVGs / Webp.
+- [💥 SmashTracker.app](https://smashtracker.app) — Web app for tracking Super Smash Bros. match results and game statistics.
+- [🦎 Reptiles.dev](https://reptiles.dev) ([GitHub](https://github.com/TimMikeladze/reptiles.dev)) — Image placeholder service that generates colorful SVGs. Super fast and easy to use.
 
 ## Packages
 
-| Name | Description |
-| --- | --- |
-| [📝 Commit It](https://github.com/TimMikeladze/commit-it) | Standardized git commits with AI message generation, interactive prompts, validation, and GitHub integration. Works as a CLI, inside AI agents, and as a programmable TypeScript API. |
-| [🐘 Fly PG Sandbox](https://github.com/TimMikeladze/fly-pg-sandbox) | Disposable Postgres on Fly.io for when you need a real database but not a real commitment. One command to deploy, one to destroy. Cheap enough to treat as throwaway. |
-| [🗂️ Use FS](https://github.com/TimMikeladze/use-file-system) | A set of React hooks to interact with the File System API. |
-| [🐝 Rehiver](https://github.com/TimMikeladze/rehiver) | Super-charge your S3 hive partitioned based file operations with intelligent pattern matching, change detection, optimized data-fetching, and out-of-the-box time series support. |
-| [🐚 Zod Command](https://github.com/TimMikeladze/zod-command) | A Zod-powered CLI framework for building command-line tools in TypeScript. |
-| [🔇 S3 Mutex](https://github.com/TimMikeladze/s3-mutex) | A simple distributed locking mechanism for Node.js applications using AWS S3 as the backend storage. |
-| [🗄️ Gist Database](https://github.com/TimMikeladze/gist-database) | Transform gist into your personal key/value datastore. |
-| [📡 Install Command](https://github.com/TimMikeladze/react-install-command/) | A React component for rendering a 'npm install <package name>' command block. Supports multiple package managers. |
-| [🗃️ Next Upload](https://github.com/TimMikeladze/next-upload) | Turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio. |
-| [🏁 Next Flag](https://github.com/TimMikeladze/next-flag) | Feature flags powered by GitHub issues and NextJS. |
-| [🔒 Next Protect](https://github.com/TimMikeladze/next-protect) | Password protect a Next.js site. |
-| [🔐 Next Auth MUI](https://github.com/TimMikeladze/next-auth-mui) | Sign-in dialog component for NextAuth built with Material UI and React. |
-| [⚖️ Next Build Size](https://github.com/TimMikeladze/next-build-size) | CLI tool to calculate and compare the sizes of artifacts produced by next build. |
-| [⌚️ Next Realtime](https://github.com/TimMikeladze/next-realtime) | Experimental drop-in solution for real-time data leveraging the Next.js Data Cache. |
-| [✅ Mui Joy Confirm](https://github.com/TimMikeladze/mui-joy-confirm) | Confirmation dialogs built on top of @mui/joy. |
-| [🐙 Use Octokit](https://github.com/TimMikeladze/use-octokit) | A data-fetching hook built on top of the Octokit and SWR. |
-| [🐌 Space Slug](https://github.com/TimMikeladze/space-slug) | Generate unique slugs, usernames, numbers, and custom words. |
-| [🥑 Arango Migrate](https://github.com/TimMikeladze/arango-migrate) | Database migration tools and CLI for ArangoDB. |
-| [🗝️ Keyv Arango](https://github.com/TimMikeladze/keyv-arango) | ArangoDB store for Keyv. |
-| [🤖 AI Complete](https://github.com/TimMikeladze/ai-complete) | A toolkit that super-charges your workflow when working with openai. |
-| [📑 Markdown To API](https://github.com/TimMikeladze/markdown-to-api) | Generate GraphQL APIs from Markdown files. |
-| [👖 Slack Manifest](https://github.com/TimMikeladze/slack-manifest) | CLI tools for interacting with a Slack App Manifest. |
-| [♾️ Halo API](https://github.com/TimMikeladze/haloapi.dev) | GraphQL API and NPM package for querying Halo Infinite data. |
-| [🌡️ TSC Baseline](https://github.com/TimMikeladze/tsc-baseline/) | Save a baseline of TypeScript errors and compare new errors against it. |
-| [📂 Scrape Directory Listing](https://github.com/TimMikeladze/scrape-directory-listing) | Download all the files from a directory listing. |
-| [🎋 GitHub Issue to Branch](https://github.com/TimMikeladze/github-issue-to-branch) | CLI tool to quickly create well-named branches from GitHub issues. |
-| [📏 React DevBar](https://github.com/TimMikeladze/react-devbar/) | A customizable floating toolbar for React applications. |
-| [⏲️ Fake Time Series](https://github.com/TimMikeladze/fake-time-series) | A flexible CLI tool for generating fake time series data. |
-| [⚔️ YGOAPI](https://github.com/TimMikeladze/ygoapi) | TypeScript client for the YGOPRODeck API, a Yu-Gi-Oh! card database. |
-| [🔥 Typescript / React Package Starter](https://github.com/TimMikeladze/typescript-react-package-starter) | A modern starter-kit for creating & publishing TypeScript and/or React components packages to NPM. Batteries included. |
+- [📝 Commit It](https://github.com/TimMikeladze/commit-it) — Standardized git commits with AI message generation, interactive prompts, validation, and GitHub integration. Works as a CLI, inside AI agents, and as a programmable TypeScript API.
+- [🐘 Fly PG Sandbox](https://github.com/TimMikeladze/fly-pg-sandbox) — Disposable Postgres on Fly.io for when you need a real database but not a real commitment. One command to deploy, one to destroy. Cheap enough to treat as throwaway.
+- [🗂️ Use FS](https://github.com/TimMikeladze/use-file-system) — A set of React hooks to interact with the File System API.
+- [🐝 Rehiver](https://github.com/TimMikeladze/rehiver) — Super-charge your S3 hive partitioned based file operations with intelligent pattern matching, change detection, optimized data-fetching, and out-of-the-box time series support.
+- [🐚 Zod Command](https://github.com/TimMikeladze/zod-command) — A Zod-powered CLI framework for building command-line tools in TypeScript.
+- [🔇 S3 Mutex](https://github.com/TimMikeladze/s3-mutex) — A simple distributed locking mechanism for Node.js applications using AWS S3 as the backend storage.
+- [🗄️ Gist Database](https://github.com/TimMikeladze/gist-database) — Transform gist into your personal key/value datastore.
+- [📡 Install Command](https://github.com/TimMikeladze/react-install-command/) — A React component for rendering a 'npm install <package name>' command block. Supports multiple package managers.
+- [🗃️ Next Upload](https://github.com/TimMikeladze/next-upload) — Turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio.
+- [🏁 Next Flag](https://github.com/TimMikeladze/next-flag) — Feature flags powered by GitHub issues and NextJS.
+- [🔒 Next Protect](https://github.com/TimMikeladze/next-protect) — Password protect a Next.js site.
+- [🔐 Next Auth MUI](https://github.com/TimMikeladze/next-auth-mui) — Sign-in dialog component for NextAuth built with Material UI and React.
+- [⚖️ Next Build Size](https://github.com/TimMikeladze/next-build-size) — CLI tool to calculate and compare the sizes of artifacts produced by next build.
+- [⌚️ Next Realtime](https://github.com/TimMikeladze/next-realtime) — Experimental drop-in solution for real-time data leveraging the Next.js Data Cache.
+- [✅ Mui Joy Confirm](https://github.com/TimMikeladze/mui-joy-confirm) — Confirmation dialogs built on top of @mui/joy.
+- [🐙 Use Octokit](https://github.com/TimMikeladze/use-octokit) — A data-fetching hook built on top of the Octokit and SWR.
+- [🐌 Space Slug](https://github.com/TimMikeladze/space-slug) — Generate unique slugs, usernames, numbers, and custom words.
+- [🥑 Arango Migrate](https://github.com/TimMikeladze/arango-migrate) — Database migration tools and CLI for ArangoDB.
+- [🗝️ Keyv Arango](https://github.com/TimMikeladze/keyv-arango) — ArangoDB store for Keyv.
+- [🤖 AI Complete](https://github.com/TimMikeladze/ai-complete) — A toolkit that super-charges your workflow when working with openai.
+- [📑 Markdown To API](https://github.com/TimMikeladze/markdown-to-api) — Generate GraphQL APIs from Markdown files.
+- [👖 Slack Manifest](https://github.com/TimMikeladze/slack-manifest) — CLI tools for interacting with a Slack App Manifest.
+- [♾️ Halo API](https://github.com/TimMikeladze/haloapi.dev) — GraphQL API and NPM package for querying Halo Infinite data.
+- [🌡️ TSC Baseline](https://github.com/TimMikeladze/tsc-baseline/) — Save a baseline of TypeScript errors and compare new errors against it.
+- [📂 Scrape Directory Listing](https://github.com/TimMikeladze/scrape-directory-listing) — Download all the files from a directory listing.
+- [🎋 GitHub Issue to Branch](https://github.com/TimMikeladze/github-issue-to-branch) — CLI tool to quickly create well-named branches from GitHub issues.
+- [📏 React DevBar](https://github.com/TimMikeladze/react-devbar/) — A customizable floating toolbar for React applications.
+- [⏲️ Fake Time Series](https://github.com/TimMikeladze/fake-time-series) — A flexible CLI tool for generating fake time series data.
+- [⚔️ YGOAPI](https://github.com/TimMikeladze/ygoapi) — TypeScript client for the YGOPRODeck API, a Yu-Gi-Oh! card database.
+- [🔥 Typescript / React Package Starter](https://github.com/TimMikeladze/typescript-react-package-starter) — A modern starter-kit for creating & publishing TypeScript and/or React components packages to NPM. Batteries included.
