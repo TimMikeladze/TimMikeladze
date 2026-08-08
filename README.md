@@ -1,4 +1,6 @@
-📅 [Book a call](https://calendly.com/linesofcode/lets-talk) · 🐙 [GitHub](https://github.com/TimMikeladze) · 💼 [LinkedIn](https://linkedin.com/in/tim-mikeladze) · 🐦 [Twitter](https://twitter.com/linesofcode) · 🦋 [Bluesky](https://bsky.app/profile/linesofcode.bsky.social) · 🎧 [Spotify](https://open.spotify.com/user/tdcqc3qqwlgcmsio0wbs8kjew?si=5f26a457020544f3)
+[![📅 Book a meeting](https://img.shields.io/badge/%F0%9F%93%85_Book_a_meeting-4F46E5?style=for-the-badge)](https://calendly.com/linesofcode/lets-talk) [![✉️ Send me an email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Send_me_an_email-16A34A?style=for-the-badge)](mailto:tim.mikeladze@gmail.com)
+
+🐙 [GitHub](https://github.com/TimMikeladze) · 💼 [LinkedIn](https://linkedin.com/in/tim-mikeladze) · 🐦 [Twitter](https://twitter.com/linesofcode) · 🦋 [Bluesky](https://bsky.app/profile/linesofcode.bsky.social) · 🎧 [Spotify](https://open.spotify.com/user/tdcqc3qqwlgcmsio0wbs8kjew?si=5f26a457020544f3)
 
 ## About
 
@@ -10,12 +12,12 @@
 
 ## Apps
 
-- [🐶 pongo.sh](https://pongo.sh) ([GitHub](https://github.com/TimMikeladze/pongo)) — Open-source uptime monitoring and status pages.
-- [📱 NationalDex.app](http://nationaldex.app/) ([GitHub](https://github.com/TimMikeladze/NationalDex)) — A digital Pokedex for exploring everything Pokemon.
-- [📚 Floppy.sh](http://floppy.sh/) — A comic book reader for your digital comic collection.
-- [🖼️ GetMondrian.com](https://getmondrian.com) ([GitHub](https://github.com/TimMikeladze/get-mondrian)) — Generate and build shareable Mondrian patterns as SVGs / Webp.
+- [🐶 pongo.sh](https://pongo.sh) — Open-source uptime monitoring and status pages. [GitHub](https://github.com/TimMikeladze/pongo)
+- [📱 NationalDex.app](http://nationaldex.app/) — A digital Pokedex for exploring everything Pokemon. [GitHub](https://github.com/TimMikeladze/NationalDex)
+- [📚 Floppy.sh](http://floppy.sh/) — A comic book reader for your digital comic collection. [GitHub](https://github.com/TimMikeladze/floppy)
+- [🖼️ GetMondrian.com](https://getmondrian.com) — Generate and build shareable Mondrian patterns as SVGs / Webp. [GitHub](https://github.com/TimMikeladze/get-mondrian)
 - [💥 SmashTracker.app](https://smashtracker.app) — Web app for tracking Super Smash Bros. match results and game statistics.
-- [🦎 Reptiles.dev](https://reptiles.dev) ([GitHub](https://github.com/TimMikeladze/reptiles.dev)) — Image placeholder service that generates colorful SVGs. Super fast and easy to use.
+- [🦎 Reptiles.dev](https://reptiles.dev) — Image placeholder service that generates colorful SVGs. Super fast and easy to use. [GitHub](https://github.com/TimMikeladze/reptiles.dev)
 
 ## Packages
 
