@@ -7,6 +7,7 @@
 - 🧗 My favorite activity is [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing).
 
 
+
 [![📅 Book a meeting](https://img.shields.io/badge/%F0%9F%93%85_Book_a_meeting-4F46E5?style=for-the-badge)](https://calendly.com/linesofcode/lets-talk) [![✉️ Send me an email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Send_me_an_email-16A34A?style=for-the-badge)](mailto:tim.mikeladze@gmail.com) [![🐦 Follow me on X](https://img.shields.io/badge/%F0%9F%90%A6_Follow_me_on_X-000000?style=for-the-badge)](https://twitter.com/linesofcode) [![💼 Connect on LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/tim-mikeladze)
 
 ## Apps
