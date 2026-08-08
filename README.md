@@ -10,12 +10,12 @@
 
 ## Apps
 
-- 🐶 [pongo.sh](https://pongo.sh) — Open-source uptime monitoring and status pages. [↗️](https://github.com/TimMikeladze/pongo)
-- 📱 [NationalDex.app](http://nationaldex.app/) — A digital Pokedex for exploring everything Pokemon. [↗️](https://github.com/TimMikeladze/NationalDex)
-- 📚 [Floppy.sh](http://floppy.sh/) — A comic book reader for your digital comic collection. [↗️](https://github.com/TimMikeladze/floppy)
-- 🖼️ [GetMondrian.com](https://getmondrian.com) — Generate and build shareable Mondrian patterns as SVGs / Webp. [↗️](https://github.com/TimMikeladze/get-mondrian)
+- 🐶 [pongo.sh](https://pongo.sh) — Open-source uptime monitoring and status pages. <sub>[(GitHub)](https://github.com/TimMikeladze/pongo)</sub>
+- 📱 [NationalDex.app](http://nationaldex.app/) — A digital Pokedex for exploring everything Pokemon. <sub>[(GitHub)](https://github.com/TimMikeladze/NationalDex)</sub>
+- 📚 [Floppy.sh](http://floppy.sh/) — A comic book reader for your digital comic collection. <sub>[(GitHub)](https://github.com/TimMikeladze/floppy)</sub>
+- 🖼️ [GetMondrian.com](https://getmondrian.com) — Generate and build shareable Mondrian patterns as SVGs / Webp. <sub>[(GitHub)](https://github.com/TimMikeladze/get-mondrian)</sub>
 - 💥 [SmashTracker.app](https://smashtracker.app) — Web app for tracking Super Smash Bros. match results and game statistics.
-- 🦎 [Reptiles.dev](https://reptiles.dev) — Image placeholder service that generates colorful SVGs. Super fast and easy to use. [↗️](https://github.com/TimMikeladze/reptiles.dev)
+- 🦎 [Reptiles.dev](https://reptiles.dev) — Image placeholder service that generates colorful SVGs. Super fast and easy to use. <sub>[(GitHub)](https://github.com/TimMikeladze/reptiles.dev)</sub>
 
 ## Packages
 
