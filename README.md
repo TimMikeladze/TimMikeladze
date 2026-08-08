@@ -1,3 +1,5 @@
+[![📅 Book a meeting](https://img.shields.io/badge/%F0%9F%93%85_Book_a_meeting-4F46E5?style=for-the-badge)](https://calendly.com/linesofcode/lets-talk) [![✉️ Send me an email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Send_me_an_email-16A34A?style=for-the-badge)](mailto:tim.mikeladze@gmail.com) [![🐦 Follow me on X](https://img.shields.io/badge/%F0%9F%90%A6_Follow_me_on_X-000000?style=for-the-badge)](https://twitter.com/linesofcode) [![💼 Connect on LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/tim-mikeladze)
+
 ## About
 
 - 📍 I live in [Seattle](https://en.wikipedia.org/wiki/Seattle) and frequently travel abroad.
@@ -6,18 +8,14 @@
 - 🛠️ I build open-source packages and ship side-projects for fun.
 - 🧗 My favorite activity is [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing).
 
-
-
-[![📅 Book a meeting](https://img.shields.io/badge/%F0%9F%93%85_Book_a_meeting-4F46E5?style=for-the-badge)](https://calendly.com/linesofcode/lets-talk) [![✉️ Send me an email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Send_me_an_email-16A34A?style=for-the-badge)](mailto:tim.mikeladze@gmail.com) [![🐦 Follow me on X](https://img.shields.io/badge/%F0%9F%90%A6_Follow_me_on_X-000000?style=for-the-badge)](https://twitter.com/linesofcode) [![💼 Connect on LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/tim-mikeladze)
-
 ## Apps
 
-- 🐶 [pongo.sh](https://pongo.sh) — Open-source uptime monitoring and status pages. [GitHub](https://github.com/TimMikeladze/pongo)
-- 📱 [NationalDex.app](http://nationaldex.app/) — A digital Pokedex for exploring everything Pokemon. [GitHub](https://github.com/TimMikeladze/NationalDex)
-- 📚 [Floppy.sh](http://floppy.sh/) — A comic book reader for your digital comic collection. [GitHub](https://github.com/TimMikeladze/floppy)
-- 🖼️ [GetMondrian.com](https://getmondrian.com) — Generate and build shareable Mondrian patterns as SVGs / Webp. [GitHub](https://github.com/TimMikeladze/get-mondrian)
+- 🐶 [pongo.sh](https://pongo.sh) — Open-source uptime monitoring and status pages. [↗️](https://github.com/TimMikeladze/pongo)
+- 📱 [NationalDex.app](http://nationaldex.app/) — A digital Pokedex for exploring everything Pokemon. [↗️](https://github.com/TimMikeladze/NationalDex)
+- 📚 [Floppy.sh](http://floppy.sh/) — A comic book reader for your digital comic collection. [↗️](https://github.com/TimMikeladze/floppy)
+- 🖼️ [GetMondrian.com](https://getmondrian.com) — Generate and build shareable Mondrian patterns as SVGs / Webp. [↗️](https://github.com/TimMikeladze/get-mondrian)
 - 💥 [SmashTracker.app](https://smashtracker.app) — Web app for tracking Super Smash Bros. match results and game statistics.
-- 🦎 [Reptiles.dev](https://reptiles.dev) — Image placeholder service that generates colorful SVGs. Super fast and easy to use. [GitHub](https://github.com/TimMikeladze/reptiles.dev)
+- 🦎 [Reptiles.dev](https://reptiles.dev) — Image placeholder service that generates colorful SVGs. Super fast and easy to use. [↗️](https://github.com/TimMikeladze/reptiles.dev)
 
 ## Packages
 
