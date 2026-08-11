@@ -19,6 +19,7 @@
 
 ## Packages
 
+- 🕰️ [PG History](https://github.com/TimMikeladze/pg-history) — PostgreSQL audit trails with automated S3 archival. Trigger-based change tracking with search, revert, a REST API and a dashboard.
 - 🔀 [OpenAPI x GraphQL](https://github.com/TimMikeladze/openapi-x-graphql) — Convert an OpenAPI document into a GraphQL schema and a proxy server, and back again. Runs on Bun and Node.
 - 📝 [Commit It](https://github.com/TimMikeladze/commit-it) — Standardized git commits with AI message generation, interactive prompts, validation, and GitHub integration. Works as a CLI, inside AI agents, and as a programmable TypeScript API.
 - 🐘 [Fly PG Sandbox](https://github.com/TimMikeladze/fly-pg-sandbox) — Disposable Postgres on Fly.io for when you need a real database but not a real commitment. One command to deploy, one to destroy. Cheap enough to treat as throwaway.
