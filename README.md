@@ -17,6 +17,7 @@
 - 💥 [SmashTracker.app](https://smashtracker.app) — Web app for tracking Super Smash Bros. match results and game statistics.
 - 🦎 [Reptiles.dev](https://reptiles.dev) — Image placeholder service that generates colorful SVGs. Super fast and easy to use. [(GitHub)](https://github.com/TimMikeladze/reptiles.dev)
 - 🐈 [CatSVG](https://catsvg.app) — Cat-based image placeholder service. Every URL is a deterministic SVG cat — no image files, no storage, ~1.7 × 10²³ combinations. [(GitHub)](https://github.com/TimMikeladze/catsvg)
+- 🎛️ [Termenvox](https://termenvox.vercel.app) — A gesture-controlled theremin in a single HTML file. Camera hand tracking, 18 scales across 6 temperaments, a deep synth voice, and MIDI out. [(GitHub)](https://github.com/TimMikeladze/termenvox)
 
 ## Packages
 
