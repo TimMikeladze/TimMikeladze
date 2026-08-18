@@ -19,10 +19,12 @@
 - 🐈 [CatSVG](https://catsvg.app) — Cat-based image placeholder service. Every URL is a deterministic SVG cat — no image files, no storage, ~1.7 × 10²³ combinations. [(GitHub)](https://github.com/TimMikeladze/catsvg)
 - 🎛️ [Termenvox](https://termenvox.vercel.app) — A gesture-controlled theremin in a single HTML file. Camera hand tracking, 18 scales across 6 temperaments, a deep synth voice, and MIDI out. [(GitHub)](https://github.com/TimMikeladze/termenvox)
 - 🏰 [Town Center](https://towncenter.vercel.app) — An Age of Empires II: Definitive Edition companion. Unit stats, civilizations, buildings, technologies, full tech trees, computed counters, a battle simulator and patch-to-patch stat changes. [(GitHub)](https://github.com/TimMikeladze/towncenter)
+- ☀️ [Solntse](https://solntse.app) — An album-cover artwork generator in a single HTML file. A procedural sun with editable type, exported as SVG, PNG, GIF or 60fps video. [(GitHub)](https://github.com/TimMikeladze/solntse)
 
 ## Packages
 
-- 🕰️ [PG History](https://github.com/TimMikeladze/pg-history) — PostgreSQL audit trails with automated S3 archival. Trigger-based change tracking with search, revert, a REST API and a dashboard.
+- 🪞 [ReflectDB](https://github.com/TimMikeladze/reflectdb) — Real-time sync engine for TypeScript. Keeps a server-side database in sync with offline-first browser clients — optimistic writes, HLC conflict resolution, and end-to-end type inference over WebSocket, SSE, or polling.
+- 🕰️ [PG Chronicle](https://github.com/TimMikeladze/pg-chronicle) — PostgreSQL audit trails with automated S3 archival. Trigger-based change tracking with search, revert, a REST API and a dashboard.
 - 🔀 [OpenAPI x GraphQL](https://github.com/TimMikeladze/openapi-x-graphql) — Convert an OpenAPI document into a GraphQL schema and a proxy server, and back again. Runs on Bun and Node.
 - 📝 [Commit It](https://github.com/TimMikeladze/commit-it) — Standardized git commits with AI message generation, interactive prompts, validation, and GitHub integration. Works as a CLI, inside AI agents, and as a programmable TypeScript API.
 - 🐘 [Fly PG Sandbox](https://github.com/TimMikeladze/fly-pg-sandbox) — Disposable Postgres on Fly.io for when you need a real database but not a real commitment. One command to deploy, one to destroy. Cheap enough to treat as throwaway.
@@ -54,3 +56,7 @@
 - ⏲️ [Fake Time Series](https://github.com/TimMikeladze/fake-time-series) — A flexible CLI tool for generating fake time series data.
 - ⚔️ [YGOAPI](https://github.com/TimMikeladze/ygoapi) — TypeScript client for the YGOPRODeck API, a Yu-Gi-Oh! card database.
 - 🔥 [Typescript / React Package Starter](https://github.com/TimMikeladze/typescript-react-package-starter) — A modern starter-kit for creating & publishing TypeScript and/or React components packages to NPM. Batteries included.
+
+## Scripts
+
+- 🧹 [Reclaim Dev Disk Space](https://gist.github.com/TimMikeladze/97a01d74edc1dcac25dc941ce85af0d1) — Bash script that finds and deletes regenerable build artifacts and caches — node_modules, .next, dist, target, .venv — with size reports by artifact type and by project. Dry run by default.
