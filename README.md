@@ -19,7 +19,7 @@
 - 🐈 [CatSVG](https://catsvg.app) — Cat-based image placeholder service. Every URL is a deterministic SVG cat — no image files, no storage, ~1.7 × 10²³ combinations. [(GitHub)](https://github.com/TimMikeladze/catsvg)
 - 🎛️ [Termenvox](https://termenvox.vercel.app) — A gesture-controlled theremin in a single HTML file. Camera hand tracking, 18 scales across 6 temperaments, a deep synth voice, and MIDI out. [(GitHub)](https://github.com/TimMikeladze/termenvox)
 - 🏰 [Town Center](https://towncenter.vercel.app) — An Age of Empires II: Definitive Edition companion. Unit stats, civilizations, buildings, technologies, full tech trees, computed counters, a battle simulator and patch-to-patch stat changes. [(GitHub)](https://github.com/TimMikeladze/towncenter)
-- ☀️ [Solntse](https://solntse.app) — An album-cover artwork generator in a single HTML file. A procedural sun with editable type, exported as SVG, PNG, GIF or 60fps video. [(GitHub)](https://github.com/TimMikeladze/solntse)
+- ☀️ [Solntse](https://solntse.app) — An album-cover artwork generator in a single HTML file, after КИНО's 1989 sleeve Звезда по имени Солнце. A procedural sun with optional type, made to beat to a dropped MIDI file or to live audio from a microphone or another browser tab, tiled into a wall of independent suns, and exported as SVG, PNG, GIF or 60fps video. [(GitHub)](https://github.com/TimMikeladze/solntse)
 
 ## Packages
 
