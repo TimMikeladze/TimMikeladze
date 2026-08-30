@@ -10,6 +10,7 @@
 
 ## Apps
 
+- 🎆 [firework.sh](https://firework.sh) — Design a firework shell and fire it over the water, choreographed to your music. Simulated on the GPU with WebGPU. [(GitHub)](https://github.com/TimMikeladze/fireworks)
 - 🐶 [pongo.sh](https://pongo.sh) — Open-source uptime monitoring and status pages. [(GitHub)](https://github.com/TimMikeladze/pongo)
 - 📱 [NationalDex.app](http://nationaldex.app/) — A digital Pokedex for exploring everything Pokemon. [(GitHub)](https://github.com/TimMikeladze/NationalDex)
 - 📚 [Floppy.sh](http://floppy.sh/) — A comic book reader for your digital comic collection. [(GitHub)](https://github.com/TimMikeladze/floppy)
