@@ -10,6 +10,7 @@
 
 ## Apps
 
+- 🧗 [LetsClimb.app](https://letsclimb.app) — A climbing app and the gym software behind it. Climbers log sends, track projects, follow a training plan and find gyms from a directory of ~3.7k around the world; gym staff run the front desk from the same database — point of sale, memberships, check-ins, route setting and the day's takings.
 - 🎆 [firework.sh](https://firework.sh) — Design a firework shell and fire it over the water, choreographed to your music. Simulated on the GPU with WebGPU. [(GitHub)](https://github.com/TimMikeladze/fireworks)
 - 🐶 [pongo.sh](https://pongo.sh) — Open-source uptime monitoring and status pages. [(GitHub)](https://github.com/TimMikeladze/pongo)
 - 📱 [NationalDex.app](http://nationaldex.app/) — A digital Pokedex for exploring everything Pokemon. [(GitHub)](https://github.com/TimMikeladze/NationalDex)
