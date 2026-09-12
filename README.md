@@ -23,6 +23,7 @@
 - 🏰 [Town Center](https://towncenter.vercel.app) — An Age of Empires II: Definitive Edition companion. Unit stats, civilizations, buildings, technologies, full tech trees, computed counters, a battle simulator and patch-to-patch stat changes. [(GitHub)](https://github.com/TimMikeladze/towncenter)
 - ☀️ [Solntse](https://solntse.app) — An album-cover artwork generator in a single HTML file, after КИНО's 1989 sleeve Звезда по имени Солнце. A procedural sun with optional type, made to beat to a dropped MIDI file or to live audio from a microphone or another browser tab, tiled into a wall of independent suns, and exported as SVG, PNG, GIF or 60fps video. [(GitHub)](https://github.com/TimMikeladze/solntse)
 - 🔴 [polkadot.sh](https://polkadot.sh) — Deterministic generative placeholder images. Every URL is an SVG or PNG rendered from a seed string — 28 motifs, 12 palettes, optional type, no image files and no storage. Also a CLI and a TypeScript library. [(GitHub)](https://github.com/TimMikeladze/polkadot)
+- 🗺️ [datacenters.sh](https://datacenters.sh) — An interactive map of the world's data centers, drawn as a pen sketch. 5,861 facilities, 923 metros, 1,323 exchanges and 127 cloud regions from operator-reported interconnection data — every building at its real coordinates, on a globe or unrolled flat, with live status feeds, network corridors and shareable views.
 
 ## Packages
 
