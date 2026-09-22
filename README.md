@@ -27,6 +27,7 @@
 
 ## Packages
 
+- 🚦 [JevLang](https://github.com/TimMikeladze/JevLang) — A policy engine for LLM decisions. Declare routes, gates and actions once in TypeScript or Python — the model only answers questions, and every decision is validated, explainable, replayable and audited from a signed journal.
 - 🖍️ [devbar.sh](https://github.com/TimMikeladze/devbar) — Drop-in toolbar for any website. Annotate the UI and capture selectors, computed styles, React component trees and screenshots as an agent-ready prompt, then hand it straight to a local coding agent over MCP.
 - 🪞 [ReflectDB](https://github.com/TimMikeladze/reflectdb) — Real-time sync engine for TypeScript. Keeps a server-side database in sync with offline-first browser clients — optimistic writes, HLC conflict resolution, and end-to-end type inference over WebSocket, SSE, or polling.
 - 🕰️ [PG Chronicle](https://github.com/TimMikeladze/pg-chronicle) — PostgreSQL audit trails with automated S3 archival. Trigger-based change tracking with search, revert, a REST API and a dashboard.
