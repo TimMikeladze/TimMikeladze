@@ -27,6 +27,7 @@
 
 ## Packages
 
+- 🪶 [bql.sh](https://github.com/TimMikeladze/bql) — SQLite as a multi-tenant database server for Bun: one database per tenant, WAL shipping to replicas and S3, hook-driven live queries and an FFI driver, with Kysely and Drizzle adapters. Ships with a durable message bus — consumer groups, leases, retries, dead letters — that runs work against it.
 - 🦾 [robocn](https://github.com/TimMikeladze/robocn) — A shadcn registry of robot components that solve their own kinematics in the browser: articulated arms in SVG and WebGL, production-line cells, mobile robots, robotic animals and sensor displays. Procedural, not sprite sheets, themed with CSS variables, and installed as source into your project.
 - 🚦 [JevLang](https://github.com/TimMikeladze/JevLang) — A policy engine for LLM decisions. Declare routes, gates and actions once in TypeScript or Python — the model only answers questions, and every decision is validated, explainable, replayable and audited from a signed journal.
 - 🖍️ [devbar.sh](https://github.com/TimMikeladze/devbar) — Drop-in toolbar for any website. Annotate the UI and capture selectors, computed styles, React component trees and screenshots as an agent-ready prompt, then hand it straight to a local coding agent over MCP.
