@@ -10,6 +10,7 @@
 
 ## Apps
 
+- 🎨 [Munsell Color System](https://munsellcolorsystem.vercel.app) — Browse the 1943 Munsell renotation chips as hue pages, value slices and a rotatable 3D solid. Decode any notation like 2.8Y 6.95/2.3 or find the notation for a colour, and compare Munsell against HSL, CIELAB and OKLCH. [(GitHub)](https://github.com/TimMikeladze/munsell-color-system)
 - 🧗 [LetsClimb.app](https://letsclimb.app) — A climbing app and the gym software behind it. Climbers log sends, track projects, follow a training plan and find gyms from a directory of ~3.7k around the world; gym staff run the front desk from the same database — point of sale, memberships, check-ins, route setting and the day's takings.
 - 🎃 [Pumpkin Patch](https://pumpkins.sh) — A million procedurally grown pumpkins under a Halloween moon, drawn in the Charlie Brown special's ink-lined style. Walk the patch, claim one pumpkin, carve it with a knife, drill or a photo, and leave it glowing for everyone else — or walk it in VR. [(GitHub)](https://github.com/TimMikeladze/pumpkin)
 - 🎆 [firework.sh](https://firework.sh) — Design a firework shell and fire it over the water, choreographed to your music. Simulated on the GPU with WebGPU. [(GitHub)](https://github.com/TimMikeladze/fireworks)
