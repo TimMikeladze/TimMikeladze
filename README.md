@@ -10,7 +10,6 @@
 
 ## Apps
 
-- 🎨 [Munsell Color System](https://munsellcolorsystem.vercel.app) — Browse the 1943 Munsell renotation chips as hue pages, value slices and a rotatable 3D solid. Decode any notation like 2.8Y 6.95/2.3 or find the notation for a colour, and compare Munsell against HSL, CIELAB and OKLCH. [(GitHub)](https://github.com/TimMikeladze/munsell-color-system)
 - 🧗 [LetsClimb.app](https://letsclimb.app) — A climbing app and the gym software behind it. Climbers log sends, track projects, follow a training plan and find gyms from a directory of ~3.7k around the world; gym staff run the front desk from the same database — point of sale, memberships, check-ins, route setting and the day's takings.
 - 🎃 [Pumpkin Patch](https://pumpkins.sh) — A million procedurally grown pumpkins under a Halloween moon, drawn in the Charlie Brown special's ink-lined style. Walk the patch, claim one pumpkin, carve it with a knife, drill or a photo, and leave it glowing for everyone else — or walk it in VR. [(GitHub)](https://github.com/TimMikeladze/pumpkin)
 - 🎆 [firework.sh](https://firework.sh) — Design a firework shell and fire it over the water, choreographed to your music. Simulated on the GPU with WebGPU. [(GitHub)](https://github.com/TimMikeladze/fireworks)
@@ -28,6 +27,7 @@
 - ☀️ [Solntse](https://solntse.app) — An album-cover artwork generator in a single HTML file, after КИНО's 1989 sleeve Звезда по имени Солнце. A procedural sun with optional type, made to beat to a dropped MIDI file or to live audio from a microphone or another browser tab, tiled into a wall of independent suns, and exported as SVG, PNG, GIF or 60fps video. [(GitHub)](https://github.com/TimMikeladze/solntse)
 - 🔴 [polkadot.sh](https://polkadot.sh) — Deterministic generative placeholder images. Every URL is an SVG or PNG rendered from a seed string — 28 motifs, 12 palettes, optional type, no image files and no storage. Also a CLI and a TypeScript library. [(GitHub)](https://github.com/TimMikeladze/polkadot)
 - 🗺️ [datacenters.sh](https://datacenters.sh) — An interactive map of the world's data centers, drawn as a pen sketch. 5,861 facilities, 923 metros, 1,323 exchanges and 127 cloud regions from operator-reported interconnection data — every building at its real coordinates, on a globe or unrolled flat, with live status feeds, network corridors and shareable views.
+- 🎨 [Munsell Color System](https://munsellcolorsystem.vercel.app) — Browse the 1943 Munsell renotation chips as hue pages, value slices and a rotatable 3D solid. Decode any notation like 2.8Y 6.95/2.3 or find the notation for a colour, and compare Munsell against HSL, CIELAB and OKLCH. [(GitHub)](https://github.com/TimMikeladze/munsell-color-system)
 
 ## Packages
 
